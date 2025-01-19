@@ -1,0 +1,2 @@
+C:\Users\JakubKulejewski(2590\Documents\Studia\S9\Unity\Maze\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\JakubKulejewski(2590\Documents\Studia\S9\Unity\Maze\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
